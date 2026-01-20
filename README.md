@@ -1,4 +1,4 @@
-#DSA Assignment in Java (From Scratch)
+# DSA Assignment in Java (From Scratch)
 
 This repository contains a Data Structures and Algorithms (DSA) assignment implemented entirely in Java without using any built-in collections (no ArrayList, LinkedList, etc.). Each question is implemented in its own class, and all functionalities are demonstrated through Main.java. Time complexities are included where relevant, and the implementations focus on clarity, simplicity, and readability.
 
