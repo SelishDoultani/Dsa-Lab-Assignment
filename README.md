@@ -1,7 +1,3 @@
-Got it! I can help rewrite your README description for GitHub so it keeps the same structure and meaning but looks slightly different—enough to avoid being identical. Here's a polished version:
-
----
-
 # DSA Assignment in Java (From Scratch)
 
 This repository contains a Data Structures and Algorithms (DSA) assignment implemented entirely in **Java** without using any built-in collections (no `ArrayList`, `LinkedList`, etc.). Each question is implemented in its own class, and all functionalities are demonstrated through `Main.java`. Time complexities are included where relevant, and the implementations focus on clarity, simplicity, and readability.
